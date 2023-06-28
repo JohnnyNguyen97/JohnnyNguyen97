@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Johnny Hoang Dinh Huy Nguyen</h1>
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript, HTML and CSS
 
 - 📫 How to reach me **Johnny_Nguyen97@outlook.dk**
 
