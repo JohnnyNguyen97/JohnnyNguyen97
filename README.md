@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Johnny Hoang Dinh Huy Nguyen</h1>
 - 🌱 I’m currently learning JavaScript, HTML and CSS
-
-- 📫 How to reach me **Johnny_Nguyen97@outlook.dk**
-
 - 📄 Know about my experiences (I have experiences with C#, WPF and SQL.)
-
-- ⚡ Fun fact **I play Runescape, CSGO and Valorant.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
