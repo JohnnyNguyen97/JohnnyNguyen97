@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Johnny Hoang Dinh Huy Nguyen</h1>
-- 🌱 I’m currently learning JavaScript, HTML and CSS
+- 🌱 I’m currently learning Kotlin and MongoDB
 - 📄 Know about my experiences (I have experiences with C#, WPF and SQL.)
 
 <h3 align="left">Connect with me:</h3>
