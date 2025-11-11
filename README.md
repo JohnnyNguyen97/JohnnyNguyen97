@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Johnny Hoang Dinh Huy Nguyen</h1>
-- 🌱 I’m currently learning about Data Structures and Algorithms
+- 🌱 I’m currently learning about Data Structures and Algorithms and learning TypeScript, React and Next.js through personal projects and a costumized CV.
 - 📄 Know about my experiences (I have experiences with C#, Blazor and SQL.)
 
 <h3 align="left">Connect with me:</h3>
