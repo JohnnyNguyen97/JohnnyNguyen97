@@ -7,9 +7,9 @@ I do various projects to keep up with new technology.
 
 The languages and tools im most comfortably with is C#, Blazor and SQL. 
 
-I try to learn new stuff at the moment. Python, React, Next.js and TypeScript.
+I try to learn new stuff at the moment. React, Next.js and TypeScript. Currently doing a portfolio webpage.
 
-I also try to get new knowledge by studying datastrutures and algorithms.
+I also try to get new knowledge by studying datastrutures and algorithms with Python. Currently doing a project in Python.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
